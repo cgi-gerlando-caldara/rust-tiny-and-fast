@@ -8,4 +8,7 @@
 This repo serves as a boilerplate to create a very small Docker image with a
 very fast build time for Rust application.
 
-Red the https://azzamsa.com/n/rust-docker know more.
+Read the blog article https://azzamsa.com/n/rust-docker to know more.
+
+**Changes**
+* Upx Adaption and Update docker files
